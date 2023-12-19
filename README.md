@@ -7,7 +7,7 @@ Compared different machine learning techniques across different performance meas
 Achieved an Accuracy of 98%.
 
 Team:
-Myself(Team Lead)
-Samadi Jayanth
-Poorna Rakesh
-Pulla Nikhil
+Myself(Team Lead),
+Samadi Jayanth,
+Poorna Rakesh,
+Pulla Nikhil.
